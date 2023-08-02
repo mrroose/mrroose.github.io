@@ -16,4 +16,4 @@ I obtained a Master's degree in Computing Science from the [Radboud University N
 
 Publications
 ------
-- Gianluigi Silvestri<sup>*</sup>, **Daan Roos**<sup>*</sup>, Luca Ambrogioni. Deterministic training of generative autoencoders using invertible layers. To appear in International Conference on Learning Representations 2023.  [[Paper]](https://openreview.net/pdf?id=g8wBdhnstYz)
+- Gianluigi Silvestri<sup>*</sup>, **Daan Roos**<sup>*</sup>, Luca Ambrogioni. Deterministic training of generative autoencoders using invertible layers. International Conference on Learning Representations 2023.  [[Paper]](https://openreview.net/pdf?id=g8wBdhnstYz)
