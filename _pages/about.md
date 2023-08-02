@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a first year PhD student at the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/) supervised by [Jan-Willem van de Meent](https://jwvdm.github.io/). My PhD research focuses on causality and using Bayesian methods to infer underlying causal models from data. Previously, I wrote my Master's thesis on Autoencoders within Flows (AEFs) under the supervision of [Luca Ambrogioni](https://twitter.com/LucaAmb).
+I'm a first year PhD student at the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/) supervised by [Jan-Willem van de Meent](https://jwvdm.github.io/). I'm interested in generative models, representation learning, and causality-inspired machine learning. Previously, I wrote my Master's thesis on Autoencoders within Flows (AEFs) under the supervision of [Luca Ambrogioni](https://twitter.com/LucaAmb).
 
 I obtained a Master's degree in Computing Science from the [Radboud University Nijmegen](https://www.ru.nl/) with a specialization in Data Science. 
 
