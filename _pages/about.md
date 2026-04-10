@@ -14,6 +14,8 @@ I'm a PhD student at the [Amsterdam Machine Learning Lab](https://amlab.science.
 I obtained a Master's degree in Computing Science from the [Radboud University Nijmegen](https://www.ru.nl/) with a specialization in Data Science. 
 
 
-Publications
+Publications/preprints
 ------
+- **Daan Roos**<sup>*</sup>, Oscar Davis<sup>*</sup>, Floor Eijkelboom<sup>*</sup>, Michael M. Bronstein, Max Welling, Ismail Ilkan Ceylan, Luca Ambrogioni, Jan-Willem van de Meent. Categorical Flow Maps. Preprint  [[Paper]](https://arxiv.org/pdf/2602.12233)
+- **Daan Roos**, Sebastian Gerwinn, Jan-Willem van de Meent, Sara Magliacane. Improving Local Explainability By Learning Causal Graphs From Data. TMLR.  [[Paper]](https://openreview.net/pdf?id=A1bXT7RQLU)
 - Gianluigi Silvestri<sup>*</sup>, **Daan Roos**<sup>*</sup>, Luca Ambrogioni. Deterministic training of generative autoencoders using invertible layers. International Conference on Learning Representations 2023.  [[Paper]](https://openreview.net/pdf?id=g8wBdhnstYz)
